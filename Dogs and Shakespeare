@@ -1,0 +1,76 @@
+<h1><strong>Warning!</strong> do not be late!</h1>
+<p>H<sub>2</sub>O</p>
+
+<picture>
+   <source media="(min-width:600px)"
+         srcset="https:/s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog2-720.jpg">  
+ 
+  <source srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog2-cropped-320.jpg">
+  
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog2-480.jpg"
+     width="480" height="360" 
+     
+      alt= "black dog lying in the sun" >
+  
+  </picture>
+<figure>
+  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/maggie2.png" width="960" height="720" alt="shiny black dog in the sun">
+
+  <figcaption>Maggie the dog enjoys resting in a field, after a long day of chasing squirrels.</figcaption>
+</figure>
+
+
+
+
+  
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-480.jpg"
+     alt="shiny black dog looking pensive"
+           width="480" height="360"
+     srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-960.jpg 2x,
+          https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-1440.jpg 3x,
+          https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-1920.jpg 4x"
+     
+     sizes="(max-width: 480px) 240px,
+            (max-width: 960px) 480px,
+            (max-width: 1440px) 960px,
+            1920px"> 
+     
+     
+
+
+
+
+
+     
+<h2> Shakespeare Sonnets </h2>
+
+
+<small>valve corporation</small>
+    
+
+<a href="https.outlook.com"></a>
+
+
+<p>For shame deny that thou bear’st love to any,
+  Who for thy self art so unprovident.</p>
+<time> May 8, 2024 </time>
+<li> flour    </li>
+<li>  sugar   </li>
+<li>   ravent  </li>
+<li>    carpaccio </li>
+<li>  lavander   </li>
+<li>  pateau choux   </li>
+<p>Grant, if thou wilt, thou art beloved of many,
+But that thou none lov’st is most evident:
+For thou art so possessed with murderous hate,
+That ‘gainst thy self thou stick’st not to conspire,</p>
+
+<p>Seeking that beauteous roof to ruinate
+Which to repair should be thy chief desire.</p>
+
+O! change thy thought, that I may change my mind:
+Shall hate be fairer lodged than gentle love?
+Be, as thy presence is, gracious and kind,
+Or to thyself at least kind-hearted prove:
+Make thee another self for love of me,
+That beauty still may live in thine or thee.
